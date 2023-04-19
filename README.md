@@ -1,14 +1,14 @@
-# Fruta-Fruto-Project - CSS Arquitecture
+## Fruta-Fruto-Project - CSS Arquitecture
 
 ## Description
 This is a project made along with the CSS Arquitecture course by Alura Latam.
 Instructor: Jeanmarie Quijada
 
-##Author - 
+## Author 
 **David G. Dueñas**
 
-* [Linkedin] (https://www.linkedin.com/in/davidgduenas
+* [Linkedin] (https://www.linkedin.com/in/davidgduenas)
 
-##Licencia - 
+## Licencia  
 MIT Public License v3.0
 No puede usarse comercialmente
